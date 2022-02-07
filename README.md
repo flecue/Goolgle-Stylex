@@ -1,5 +1,7 @@
 # Goolgle-Stylex
 
+@Status: not fully validated - 2022-02-07
+
 #### https://github.com/google/explaining-in-style
 #### https://explaining-in-style.github.io/
 #### https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html
